@@ -1,0 +1,5 @@
+<?php
+
+HOLA, ARCHIVO DE PRUEBA.
+
+?>
