@@ -1,3 +1,3 @@
 <?php
-    echo "Johan Changoluisa, PRUEBA"
+    echo "Johan Changoluisa"
 ?>
